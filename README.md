@@ -2,11 +2,6 @@
 
 Welcome to the **ReachInboxAsgn** repository!
 
-## Live Demo
-
-You can view the deployed application [here](https://reachinboxasgn.vercel.app/login).
-Use these in case of failure reaching out [here](https://reachinbox-xi.vercel.app/login).
-
 ## Project Overview
 
 This project is a **Vite** application built with **ReactJS** and **Tailwind CSS**. It also includes **API integration**.
