@@ -1,8 +1,17 @@
-# React + Vite
+# ReachInboxAsgn
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **ReachInboxAsgn** repository!
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view the deployed application [here](https://reachinboxasgn.vercel.app/login).
+
+## Project Overview
+
+This project is a **Vite** application built with **ReactJS** and **Tailwind CSS**. It also includes **API integration**.
+
+## Skills Utilized
+
+- **ReactJS**: For building the user interface.
+- **Tailwind CSS**: For styling and responsive design.
+- **API Integration**: For handling data and interactions.
