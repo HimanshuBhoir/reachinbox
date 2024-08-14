@@ -7,7 +7,7 @@ function LoginCard() {
   const navigate = useNavigate();
   const token = localStorage.getItem('token')
   token ? navigate('/') : navigate('/login');
-  const handleLogin = () => window.location.href = 'https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=http://localhost:5173/';
+  const handleLogin = () => window.location.href = 'https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=https://reachinboxasgn.vercel.app/';
 
   return (
     <div className='w-screen h-screen flex flex-col justify-center items-center bg-black text-white'>
