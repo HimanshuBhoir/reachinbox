@@ -4,7 +4,7 @@ Welcome to the **ReachInboxAsgn** repository!
 
 ## Live Demo
 
-You can view the deployed application [here](https://reachinboxasgn.vercel.app/login).
+You can view the deployed application [here](https://reachinboxasgn.vercel.app/).
 
 ## Project Overview
 
